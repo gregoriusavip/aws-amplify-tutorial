@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "awsamplifytutorial986e4db9": {}
+      },
+      "api": {
+        "awsamplifytutorial": {}
+      },
+      "storage": {
+        "imagestorage": {}
       }
     }
   }
